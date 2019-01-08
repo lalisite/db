@@ -1,0 +1,38 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "email": "myplace@myplace.com",
+            "password": "123",
+            "agency": "myplace",
+            "tel": "03-5251717",
+            "city": "TEL AVIV - YAFO",
+            "street": "Tarsat Blve",
+            "building": 17,
+            "postal": 6652103,
+            "imgUrl": "https://www.thebalance.com/thmb/1iJVfYI0VHBmGBWOwhyoV4oQ1Vg=/1500x1000/filters:fill(auto,1)/Real-Estate-Agent-or-Lawyer-57e054ce5f9b586516c735f0.jpg"
+        },
+        {
+            "id": 2,
+            "email": "remax@remax.com",
+            "password": "333",
+            "agency": "remax",
+            "tel": "03-6985685",
+            "city": "TEL AVIV - YAFO",
+            "street": "linkolen",
+            "building": 20,
+            "postal": 0,
+            "imgUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/0_Mons_-_Rue_des_Chartriers%2C_4A.jpg/1200px-0_Mons_-_Rue_des_Chartriers%2C_4A.jpg"
+        }
+    ],
+    "assets": [
+        {
+            "id": 1,
+            "userId": 1
+        },
+        {
+            "id": 2,
+            "userId": 1
+        }
+    ]
+}
